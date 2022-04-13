@@ -1,11 +1,10 @@
 {
     "jurisdiction": {
-        "name": "XXX",
-        "id": "Qxxx"
+        "name": "Donetsk People's Republic",
+        "id": "Q16150196"
     },
     "cabinet": {
-        "id": "Qxxx",
-        "start": "YYYY-MM-DD",
-        "parent": "Qxxx"
+        "start": "2018-12-03",
+        "parent": "Q18635169"
     }
 }
