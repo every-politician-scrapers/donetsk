@@ -1,0 +1,52 @@
+[
+  {
+    "office": {
+      "links": [
+        "People's Council of the Donetsk People's Republic"
+      ],
+      "stated_as": "Head of the Legal Department at the People's Council of the Donetsk People's Republic"
+    },
+    "P580": "2014",
+    "P582": "2016"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs",
+        "Donetsk People's Republic"
+      ],
+      "stated_as": "Minister of Foreign Affairs of the Donetsk People's Republic"
+    },
+    "P580": "2016-02-23",
+    "P1365": {
+      "links": [
+        "Aleksandr Igorevich Kofman"
+      ],
+      "stated_as": "Aleksandr Igorevich Kofman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Trilateral Contact Group on Ukraine"
+      ],
+      "stated_as": "Permanent Representative of the Donetsk People's Republic at the Trilateral Contact Group on Ukraine"
+    },
+    "P580": "2018-09-12",
+    "P1365": {
+      "links": [
+        "Denis Pushilin"
+      ],
+      "stated_as": "Denis Pushilin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Head of the interdepartmental committee for the accreditation of humanitarian missions"
+    },
+    "P580": "2018-09-14"
+  }
+]
