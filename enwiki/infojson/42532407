@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "People's Council of the Donetsk People's Republic"
+      ],
+      "stated_as": "Chairman of the Donetsk Supreme Council"
+    },
+    "P580": "2014-05-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2014-07-18",
+    "P1366": {
+      "links": [
+        "Vladimir Makovych"
+      ],
+      "stated_as": "Vladimir Makovych (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "People's Council of the Donetsk People's Republic"
+      ],
+      "stated_as": "Chairman of the Donetsk People's Council"
+    },
+    "P580": "2015-09-04",
+    "P1365": {
+      "links": [
+        "Andrei Purgin"
+      ],
+      "stated_as": "Andrei Purgin"
+    },
+    "P582": "2018-09-14",
+    "P1366": {
+      "links": [
+        "Olga Makeeva"
+      ],
+      "stated_as": "Olga Makeeva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of the Donetsk People's Republic"
+      ],
+      "stated_as": "Prime Minister of the Donetsk People's Republic Acting"
+    },
+    "P580": "2018-09-07",
+    "P1365": {
+      "links": [
+        "Dmitry Trapeznikov"
+      ],
+      "stated_as": "Dmitry Trapeznikov (acting)"
+    },
+    "P582": "2018-10-18",
+    "P1366": {
+      "links": [
+        "Alexander Ananchenko"
+      ],
+      "stated_as": "Alexander Ananchenko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Head of the Donetsk People's Republic"
+      ],
+      "stated_as": "Head of the Donetsk People's Republic"
+    },
+    "P580": "2018-11-20",
+    "P1365": {
+      "links": [
+        "Alexander Zakharchenko",
+        "Dmitry Trapeznikov"
+      ],
+      "stated_as": "Alexander Zakharchenko Dmitry Trapeznikov (acting)"
+    }
+  }
+]
